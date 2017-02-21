@@ -1,7 +1,7 @@
-# Odoo PyCharm Auto Complete syntex 
-### Templates for Odoo in PyCharm
+# Odoo PyCharm Auto Complete syntax 
+### Auto Complete Odoo in PyCharm
 
-This Templates can help you to develop Odoo Modules Faster and with no Typing Errors
+This Auto Complete Templates can help you to develop Odoo Modules Faster and with no Typing Errors
 
 ### Configuration:
 If You are using a linux distribution you can save the XML file in PyCharm files, Just find the path or create it :
