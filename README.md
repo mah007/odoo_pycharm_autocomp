@@ -1,18 +1,18 @@
-# Odoo PyCharm Templates
+# Odoo PyCharm Auto Complete syntex 
 ### Templates for Odoo in PyCharm
 
 This Templates can help you to develop Odoo Modules Faster and with no Typing Errors
 
 ### Configuration:
-If You are using a linux distribution you can save the XML file in PyCharm files, Just find the path:
+If You are using a linux distribution you can save the XML file in PyCharm files, Just find the path or create it :
 
-    ~/.PyCharm*/config/templates
+    ~/.PyCharm*/config/auto
 
 MacOs X users, look for the templates folder here:
 
-    ~/Library/Preferences/PyCharm*/templates
+    ~/Library/Preferences/PyCharm*/auto
 
-and save the XML file there. Enjoy your time developing great Odoo Modules :)
+and save the XML file and restart your Pycharm  :)
 
 ### User Guide
-Here is a little video that's show how you can use this template : https://youtu.be/vytzDo33qdM
+Here is a little video that's show how you can use this template : 
