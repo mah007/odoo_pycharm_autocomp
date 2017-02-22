@@ -15,4 +15,4 @@ MacOs X users, look for the templates folder here:
 and save the XML file and restart your Pycharm  :)
 
 ### User Guide
-Here is a little video that's show how you can use this template : 
+Here is a little video that's show how you can use this template : https://youtu.be/bNrvU8qMOyU
