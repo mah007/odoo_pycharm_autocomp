@@ -14,8 +14,8 @@ MacOs X users, look for the templates folder here:
 
 and save the XML file and restart your Pycharm  :)
 
-###thank you Eng Mohamed magdy for this template 
-https://github.com/mohamedmagdy/odoo-pycharm-templates
+###thank you flectra for this template 
+
 
 ### User Guide
 Here is a little video that's show how you can use this template : https://youtu.be/bNrvU8qMOyU
