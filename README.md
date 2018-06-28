@@ -14,7 +14,7 @@ MacOs X users, look for the templates folder here:
 
 and save the XML file and restart your Pycharm  :)
 
-###thank you flectra for this template 
+### thank you flectra for this template 
 
 
 ### User Guide
