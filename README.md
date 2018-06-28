@@ -16,6 +16,10 @@ and save the XML file and restart your Pycharm  :)
 
 ### thank you flectra for this template 
 
+Credits
+
+Part of code based on mohamed magdy template  https://github.com/mohamedmagdy/odoo-pycharm-templates
+
 
 ### User Guide
 Here is a little video that's show how you can use this template : https://youtu.be/bNrvU8qMOyU
