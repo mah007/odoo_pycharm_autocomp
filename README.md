@@ -6,7 +6,7 @@ This Auto Complete Templates can help you to develop Odoo Modules Faster and wit
 ### Configuration:
 If You are using a linux distribution you can save the XML file in PyCharm files, Just find the path or create it :
 
-    ~/.PyCharm*/config/auto
+    ~/.PyCharm*/config/templates
 
 MacOs X users, look for the templates folder here:
 
